@@ -51,4 +51,4 @@ atlanta.dar_like()
 filmes_e_serie = [vingadores, atlanta]
 
 for programa in filmes_e_serie:
-    print(programa)
+    print(programa)s
